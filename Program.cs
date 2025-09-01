@@ -12,6 +12,7 @@ namespace Project_V3
         static void Main(string[] args)
         {
             int q = 0;
+            int l = 0;
         }
     }
 }
